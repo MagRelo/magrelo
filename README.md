@@ -27,8 +27,8 @@ This is my personal webpage, blog, and playground. It's built using free, open-s
 
 ## Random Fun Stuff
 
-###  [webMidiFighter3D](https://magrelo.github.io/quickform) – [(code)](https://magrelo.github.io/quickform)
+###  [webMidiFighter3D](https://magrelo.github.io/quickform) – ([code](https://magrelo.github.io/quickform))
 A beat machine! Built to compliment the MIDIFighter3D.
 
-###  [QuickForm](https://magrelo.github.io/quickForm/#/) – [(code)](https://github.com/MagRelo/quickForm)
+###  [QuickForm](https://magrelo.github.io/quickForm/#/) – ([code](https://github.com/MagRelo/quickForm))
 One of my first projects! Build custom HTML forms.
