@@ -14,21 +14,24 @@ Topics I'm interested in:
 
 ## Featured Projects
 
-### "Matt Lovan is a Web Developer"
+### ["Matt Lovan is a Web Developer"](https://mattlovan.com)
 This is my personal webpage & blog. Ghost CMS, React frontend.
 
 - [**servesa-home**](https:github.com): application code for [mattlovan.com](https://mattlovan.com)
 - [**servesa-compose**](https:github.com): deployment config for [mattlovan.com](https://mattlovan.com)
 
-### Position Paper (In Development)
-This is my personal webpage & blog. Ghost CMS, React frontend.
+### [Position Paper](https://position.incentive.exchange) (In Development)
+This is a concept I've been working on in anticipation of the Augur v2 launch. 
 
 - [**servesa-home**](https:github.com): application code for [mattlovan.com](https://mattlovan.com)
 - [**servesa-compose**](https:github.com): deployment config for [mattlovan.com](https://mattlovan.com)
 
 
 ## Random Fun Stuff
-- midi fighter
-- form maker
-- 
+
+### webMidiFighter3D
+lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
+
+### QuickForm
+lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 
