@@ -1,4 +1,5 @@
-<img alt="profile picture" src="https://pbs.twimg.com/profile_banners/826364246/1595358143/1500x500">
+<img alt="profile picture" align="right" width="360" height="360" src="https://pbs.twimg.com/profile_images/1285652399521009665/W18Mg62k_400x400.jpg">
+
 
 # 👋 Hello
 I'm Matt Lovan, full-stack developer. I build most of my projects using Node & React.  
