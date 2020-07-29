@@ -25,13 +25,10 @@ This is my personal webpage, blog, and playground. It's built using free, open-s
 
 
 
-
 ## Random Fun Stuff
 
-### Position Paper – [(live demo)](https://position.incentive.exchange) – [(code)](magrelo.github.io/quickform)
-This is a concept I've been working on in anticipation of the Augur v2 launch. 
+###  [webMidiFighter3D](https://magrelo.github.io/quickform) – [(code)](https://magrelo.github.io/quickform)
+A beat machine! Built to compliment the MIDIFighter3D.
 
-### webMidiFighter3D – [(live demo)](https://magrelo.github.io/quickform) – [(code)](https://magrelo.github.io/quickform)
-
-### QuickForm – [(live demo)](https://magrelo.github.io/quickForm/#/) – [(code)](https://github.com/MagRelo/quickForm)
+###  [QuickForm](https://magrelo.github.io/quickForm/#/) – [(code)](https://github.com/MagRelo/quickForm)
 One of my first projects! Build custom HTML forms.
