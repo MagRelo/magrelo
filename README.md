@@ -1,8 +1,6 @@
 <img alt="profile picture" align="right" width="400" height="400" src="https://pbs.twimg.com/profile_images/1285652399521009665/W18Mg62k_400x400.jpg">
 
-# Matt Lovan
-
-### Hello. 👋
+# Hello 👋
 I'm Matt Lovan, full-stack developer. I work on new ways to cooperate using mechanism design, programmable value (Ethereum & Web3), and the open web.
 
 
