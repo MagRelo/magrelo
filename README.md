@@ -14,31 +14,15 @@ Topics I'm interested in:
 
 ## Featured Projects
 
-### Matt Lovan is a Web Developer
+### "Matt Lovan is a Web Developer"
 This is my personal webpage & blog. Ghost CMS, React frontend.
 
-#### Repo's:
 - [**servesa-home**](https:github.com): application code for [mattlovan.com](https://mattlovan.com)
 - [**servesa-compose**](https:github.com): deployment config for [mattlovan.com](https://mattlovan.com)
-
-
-### Talent Relay
-
-- Stripe, Plaid
-- Sendgrid
-- Magic Auth
-
-#### Repo's:
-- [**servesa-home**](https:github.com): application code for [mattlovan.com](https://mattlovan.com)
-- [**servesa-compose**](https:github.com): deployment config for [mattlovan.com](https://mattlovan.com)
-
 
 ### Position Paper (In Development)
-- [**servesa-home**](https:github.com): application code for [mattlovan.com](https://mattlovan.com)
-- [**servesa-compose**](https:github.com): deployment config for [mattlovan.com](https://mattlovan.com)
+This is my personal webpage & blog. Ghost CMS, React frontend.
 
-
-#### Repo's:
 - [**servesa-home**](https:github.com): application code for [mattlovan.com](https://mattlovan.com)
 - [**servesa-compose**](https:github.com): deployment config for [mattlovan.com](https://mattlovan.com)
 
