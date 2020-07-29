@@ -2,23 +2,19 @@
 
 # 👋 Hello
 
-I'm Matt Lovan, full-stack developer. I build most of my projects using Node & React.  
-
-Topics I'm interested in:
-
-- incentive design
-- programmable value (ethereum)
-- community building
-- media
-
+I'm Matt Lovan, a full-stack JavaScript developer. I build most of my projects using Node & React.  
 
 ## Featured Projects
 
 ### ["Matt Lovan is a Web Developer"](https://mattlovan.com)
 This is my personal webpage & blog. Ghost CMS, React frontend.
 
-- [**servesa-home**](https:github.com): application code for [mattlovan.com](https://mattlovan.com)
-- [**servesa-compose**](https:github.com): deployment config for [mattlovan.com](https://mattlovan.com)
+
+#### Highlights
+- React frontend
+- Custom Socail metadata
+- Party ZOne
+
 
 ### [Position Paper](https://position.incentive.exchange) (In Development)
 This is a concept I've been working on in anticipation of the Augur v2 launch. 
