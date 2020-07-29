@@ -1,6 +1,6 @@
 <hr>
 
-<img alt="profile picture" align="right" width="320" height="320" src="https://pbs.twimg.com/profile_images/1285652399521009665/W18Mg62k_400x400.jpg">
+<img alt="profile picture" align="right" width="280" height="280" src="https://pbs.twimg.com/profile_images/1285652399521009665/W18Mg62k_400x400.jpg">
 
 # Hello 👋
 
