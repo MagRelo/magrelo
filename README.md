@@ -4,7 +4,7 @@
 
 I'm Matt Lovan, a full-stack JavaScript developer. My typical stack includes React, Node, PostgreSQL, and Solidity. 
 
-## Featured Projects
+## Featured Project
 
 ### ["Matt Lovan is a Web Developer"](https://mattlovan.com)
 This is my personal webpage & blog. It's built using free, open-source components such as React.js, Node.js, Ghost CMS, Docker, NGINX and more. These components are built into Docker containers and deployed on a Linux VM. 
@@ -21,14 +21,13 @@ Some highlights:
 - [Application Code](https://github.com/MagRelo/servesa-homepage): React, Node, CSS, 
 - [Deployment Code](https://github.com/MagRelo/servesa-compose): Docker, Docker Compose, NGINX, SSL, certbot
 
-### [Position Paper](https://position.incentive.exchange) (In Development)
-This is a concept I've been working on in anticipation of the Augur v2 launch. 
-
 ## Random Fun Stuff
 
-### webMidiFighter3D
-lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum 
 
-### QuickForm
-lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
+### Position Paper – [(live demo)](https://position.incentive.exchange) – [(code)](magrelo.github.io/quickform)
+This is a concept I've been working on in anticipation of the Augur v2 launch. 
 
+### webMidiFighter3D – [(live demo)](magrelo.github.io/quickform) – [(code)](magrelo.github.io/quickform)
+
+### QuickForm – [(live demo)](magrelo.github.io/quickform) – [(code)](magrelo.github.io/quickform)
+One of my first projects! Build custom HTML forms.
