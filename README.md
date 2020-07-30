@@ -38,7 +38,7 @@ A demo of using web3 private/public key signatures for authentication. See accom
 ###  🎧  &nbsp; webMidiFighter3D
 A beat machine! Built to compliment the MIDIFighter3D.
 
-📺  &nbsp;[ View the Site](https://magrelo.github.io/quickForm/#/)
+📺  &nbsp;[ View the Site](https://midifighter.mattlovan.com)
 
 💾  &nbsp; [ View the Code](https://github.com/MagRelo/midi)
 
