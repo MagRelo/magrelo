@@ -19,9 +19,9 @@ This is my personal homepage & blog. It uses free, open-source components built 
 
 **Code Repositories:**
 
-💾  [Application Code](https://github.com/MagRelo/servesa-homepage): React, Node, SASS
+💾  &nbsp; [Application Code](https://github.com/MagRelo/servesa-homepage): React, Node, SASS
 
-💾  [Deployment Code](https://github.com/MagRelo/servesa-compose): Docker, Docker Compose, NGINX, SSL, certbot
+💾  &nbsp; [Deployment Code](https://github.com/MagRelo/servesa-compose): Docker, Docker Compose, NGINX, SSL, certbot
 
 
 
@@ -31,20 +31,20 @@ This is my personal homepage & blog. It uses free, open-source components built 
 ###  🔐 Web3 Authentication Demo
 A demo of using web3 private/public key signatures for authentication. See accompanying slides. Features: JWT auth, middleware for webSocket & http, 
 
-📺  [ View the Site](https://magrelo.github.io/quickForm/#/)
+📺  &nbsp; [ View the Site](https://magrelo.github.io/quickForm/#/)
 
-💾  [ View the Code](https://github.com/MagRelo/midi)
+💾  &nbsp; [ View the Code](https://github.com/MagRelo/midi)
 
-###  🎧 webMidiFighter3D
+###  🎧  &nbsp; webMidiFighter3D
 A beat machine! Built to compliment the MIDIFighter3D.
 
-📺  [ View the Site](https://magrelo.github.io/quickForm/#/)
+📺  &nbsp;[ View the Site](https://magrelo.github.io/quickForm/#/)
 
-💾  [ View the Code](https://github.com/MagRelo/midi)
+💾  &nbsp; [ View the Code](https://github.com/MagRelo/midi)
 
-###  📑 QuickForm
+###  📑 &nbsp; QuickForm
 One of my first projects! Build custom HTML forms.
 
-📺  [ View the Site](https://magrelo.github.io/quickForm/#/)
+📺  &nbsp;[ View the Site](https://magrelo.github.io/quickForm/#/)
 
-💾  [ View the Code](https://github.com/MagRelo/quickForm)
+💾  &nbsp; [ View the Code](https://github.com/MagRelo/quickForm)
