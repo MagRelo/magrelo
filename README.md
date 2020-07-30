@@ -23,9 +23,9 @@ These components are built into Docker containers and deployed on a Linux VM.
 
 **Code Repositories:**
 
-💾 – [Application Code](https://github.com/MagRelo/servesa-homepage): React, Node, SASS
+💾  [Application Code](https://github.com/MagRelo/servesa-homepage): React, Node, SASS
 
-💾 – [Deployment Code](https://github.com/MagRelo/servesa-compose): Docker, Docker Compose, NGINX, SSL, certbot
+💾  [Deployment Code](https://github.com/MagRelo/servesa-compose): Docker, Docker Compose, NGINX, SSL, certbot
 
 
 
@@ -33,22 +33,22 @@ These components are built into Docker containers and deployed on a Linux VM.
 
 
 ###  🔐 [Web3 Authentication Demo](https://magrelo.github.io/quickform)
-A demo of using web3 private/public key signatures for suthentication. See accompanying slides. Features: JWT auth, middleware for webSocket & http, 
+A demo of using web3 private/public key signatures for authentication. See accompanying slides. Features: JWT auth, middleware for webSocket & http, 
 
-📺  – [ Live Demo](https://magrelo.github.io/quickForm/#/)
+📺  [ View the Site](https://magrelo.github.io/quickForm/#/)
 
-💾  – [ View the Code](https://github.com/MagRelo/midi)
+💾  [ View the Code](https://github.com/MagRelo/midi)
 
 ###  🎧 [webMidiFighter3D](https://magrelo.github.io/quickform)
 A beat machine! Built to compliment the MIDIFighter3D.
 
-📺  – [ Live Demo](https://magrelo.github.io/quickForm/#/)
+📺  [ View the Site](https://magrelo.github.io/quickForm/#/)
 
-💾  – [ View the Code](https://github.com/MagRelo/midi)
+💾  [ View the Code](https://github.com/MagRelo/midi)
 
 ###  📑 [QuickForm](https://magrelo.github.io/quickForm/#/)
 One of my first projects! Build custom HTML forms.
 
-📺  [ Live Demo](https://magrelo.github.io/quickForm/#/)
+📺  [ View the Site](https://magrelo.github.io/quickForm/#/)
 
 💾  [ View the Code](https://github.com/MagRelo/quickForm)
