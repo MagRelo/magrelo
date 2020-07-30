@@ -1,7 +1,5 @@
 <hr>
 
-<img alt="profile picture" align="right" width="280" height="280" src="https://pbs.twimg.com/profile_images/1285652399521009665/W18Mg62k_400x400.jpg">
-
 # Hello 👋
 
 I'm Matt Lovan, a full-stack JavaScript developer. My typical stack includes React, Node, PostgreSQL, and Solidity. 
@@ -25,10 +23,18 @@ This is my personal webpage, blog, and playground. It's built using free, open-s
 
 
 
-## Random Fun Stuff
+## Other Projects
 
-###  [webMidiFighter3D](https://magrelo.github.io/quickform) – ([code](https://magrelo.github.io/quickform))
+###  [webMidiFighter3D](https://magrelo.github.io/quickform)
 A beat machine! Built to compliment the MIDIFighter3D.
 
-###  [QuickForm](https://magrelo.github.io/quickForm/#/) – ([code](https://github.com/MagRelo/quickForm))
+📺  [ Live Demo](https://magrelo.github.io/quickForm/#/)
+
+💾  [ View the Code](https://github.com/MagRelo/midi)
+
+###  [QuickForm](https://magrelo.github.io/quickForm/#/)
 One of my first projects! Build custom HTML forms.
+
+📺  [ Live Demo](https://magrelo.github.io/quickForm/#/)
+
+💾  [ View the Code](https://github.com/MagRelo/quickForm)
