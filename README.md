@@ -7,18 +7,14 @@ I'm Matt Lovan, a full-stack JavaScript developer. My typical stack includes Rea
 ## Featured Project
 
 ### ["Matt Lovan is a Web Developer"](https://mattlovan.com)
-This is my personal homepage, blog, and playground. 
-
-It's built using free, open-source components such as React.js, Node.js, Ghost CMS, Docker, NGINX and more. 
-
-These components are built into Docker containers and deployed on a Linux VM. 
+This is my personal homepage & blog. It uses free, open-source components built into Docker containers and deployed on a Linux VM. See my blog post for a detailed look at the architecture.
 
 **Highlights:**
 - **Dockerized Architecture** – Each component runs in a seperate Docker container. Makes it easy to scale and/or add new apps.
 - **Auto-renewing SSL certificates (https)** – Uses certbot to auto-renew LetsEncrypt SSL certificates every 60 days
-- **Blog powered by Ghost CMS** – Ghost is an open-source headless Node.js CMS
+- **Ghost CMS** – Ghost is an open-source headless Node.js content management system
 - **Custom React Frontend** – client-side routing, SASS, 
-- **Dynamic Social Metadata** – 
+- **Dynamic Social Metadata** – modify the page's metadata to support SEO & social cards
 
 
 **Code Repositories:**
@@ -32,21 +28,21 @@ These components are built into Docker containers and deployed on a Linux VM.
 ## Other Projects
 
 
-###  🔐 [Web3 Authentication Demo](https://magrelo.github.io/quickform)
+###  🔐 Web3 Authentication Demo
 A demo of using web3 private/public key signatures for authentication. See accompanying slides. Features: JWT auth, middleware for webSocket & http, 
 
 📺  [ View the Site](https://magrelo.github.io/quickForm/#/)
 
 💾  [ View the Code](https://github.com/MagRelo/midi)
 
-###  🎧 [webMidiFighter3D](https://magrelo.github.io/quickform)
+###  🎧 webMidiFighter3D
 A beat machine! Built to compliment the MIDIFighter3D.
 
 📺  [ View the Site](https://magrelo.github.io/quickForm/#/)
 
 💾  [ View the Code](https://github.com/MagRelo/midi)
 
-###  📑 [QuickForm](https://magrelo.github.io/quickForm/#/)
+###  📑 QuickForm
 One of my first projects! Build custom HTML forms.
 
 📺  [ View the Site](https://magrelo.github.io/quickForm/#/)
