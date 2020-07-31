@@ -19,8 +19,8 @@ This is my personal homepage & blog. It uses free, open-source components built 
 
 **Code Repositories:**
 
-- 💾  &nbsp; [Application Code](https://github.com/MagRelo/servesa-homepage): React, Node, SASS
-- 💾  &nbsp; [Deployment Code](https://github.com/MagRelo/servesa-compose): Docker, Docker Compose, NGINX, SSL, certbot
+- 💾  &nbsp; [Client & Server Code](https://github.com/MagRelo/servesa-homepage): React, Node, SASS
+- 💾  &nbsp; [Infrastructure Code](https://github.com/MagRelo/servesa-compose): Docker, Docker Compose, NGINX, SSL, certbot
 
 
 
