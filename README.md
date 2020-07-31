@@ -26,16 +26,15 @@ This is my personal homepage & blog. It uses free, open-source components built 
 
 ## Other Projects
 
-### ["Talent Relay"](https://talentrelay.app)
-{tagline}
+### [Talent Relay](https://talentrelay.app)
+Earn revenue for your community by helping them find great jobs.
 
 **Highlights:**
-- **Docker & Docker-Compose** – Each component runs in a separate Docker container which makes it easy to scale and/or add new apps.
-- **Auto-renewing SSL certificates (https)** – Uses certbot to auto-renew LetsEncrypt SSL certificates every 60 days
-- **MongoDB** – {insert}
+- **MongoDB** – Application data stored in MongoDB
 - **Node.js Server** – Lightweight server to serve the frontend + modify the index page's metadata to support SEO & social cards 
-- **Google Authentication (OAuth)** – Support Google login 
+- **Google Authentication (OAuth)** – Supports Google login 
 - **Stripe & Plaid integrations** – Accept credit cards with using Stripe – Send money to users using Plaid
+- **Automated Emails** – Programmatic email using Sendgrid
 - **React.js Frontend** – React Router, SASS
 
 `*** This is closed source atm – please contact me for access ***`
