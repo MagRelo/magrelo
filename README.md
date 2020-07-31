@@ -2,7 +2,7 @@
 
 # Hello 👋
 
-I'm Matt Lovan, a full-stack JavaScript developer. My typical stack includes React, Node, PostgreSQL, and Solidity. 
+I'm Matt Lovan, a full-stack JavaScript developer.
 
 ## Featured Project
 
