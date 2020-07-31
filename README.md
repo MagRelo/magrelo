@@ -11,6 +11,7 @@ This is my personal homepage & blog. It uses free, open-source components built 
 
 **Highlights:**
 - **Docker & Docker-Compose** – Each component runs in a separate Docker container which makes it easy to scale and/or add new apps.
+- **Docker override for Local Development** – Seperate Docker config for local troubleshooting  
 - **Auto-renewing SSL certificates (https)** – Uses certbot to auto-renew LetsEncrypt SSL certificates every 60 days
 - **Ghost CMS** – Ghost is an open-source headless Node.js content management system
 - **Node.js Server** – Lightweight server to serve the frontend + modify the index page's metadata to support SEO & social cards 
