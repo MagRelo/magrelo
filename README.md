@@ -48,7 +48,7 @@ A beat machine! Built to compliment the MIDIFighter3D.
 <hr/>
 
 ###  📑 &nbsp; QuickForm
-One of my first projects! A developer tool to saffold out custom HTML forms.
+One of my first projects! A developer tool to scaffold out custom HTML forms.
 
 - 📺  &nbsp;[ View the Site](https://magrelo.github.io/quickForm/#/)
 - 💾  &nbsp; [ View the Code](https://github.com/MagRelo/quickForm)
