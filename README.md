@@ -26,6 +26,23 @@ This is my personal homepage & blog. It uses free, open-source components built 
 
 ## Other Projects
 
+### ["Talent Relay"](https://talentrelay.app)
+{tagline}
+
+**Highlights:**
+- **Docker & Docker-Compose** – Each component runs in a separate Docker container which makes it easy to scale and/or add new apps.
+- **Auto-renewing SSL certificates (https)** – Uses certbot to auto-renew LetsEncrypt SSL certificates every 60 days
+- **MongoDB** – {insert}
+- **Node.js Server** – Lightweight server to serve the frontend + modify the index page's metadata to support SEO & social cards 
+- **Google Authentication (OAuth)** – Support Google login 
+- **Stripe & Plaid integrations** – Accept credit cards with using Stripe – Send money to users using Plaid
+- **React.js Frontend** – React Router, SASS
+
+`*** This is closed source atm – please contact me for access ***`
+
+**Keywords:** React.js, Node.js, MongoDB, web3, Google OAuh, Stripe, Plaid, Sendgrid
+
+<hr>
 
 ###  🔐 Web3 Authentication Demo
 A demo of using web3 private/public key signatures for authentication. See accompanying slides. Features: JWT auth, middleware for webSocket & http, 
