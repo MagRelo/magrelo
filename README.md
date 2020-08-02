@@ -39,7 +39,10 @@ Earn revenue for your community by helping them find great jobs.
 - **Automated Emails** – Programmatic email using Sendgrid
 - **React.js Frontend** – React Router, SASS
 
+
+**View**
 - 📺  &nbsp; [ View the Site](https://talentrelay.app)
+
 `*** This is closed source atm – please contact me for access ***`
 
 **Keywords:** React.js, Node.js, MongoDB, web3, Google OAuh, Stripe, Plaid, Sendgrid
