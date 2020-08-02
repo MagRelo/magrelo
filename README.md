@@ -2,32 +2,33 @@
 
 # Hello 👋
 
-I'm Matt Lovan, a full-stack JavaScript developer.
+I'm Matt Lovan, Full Stack JavaScript developer.
 
 ## Featured Project
 
-### ["Matt Lovan is a Web Developer"](https://mattlovan.com)
+### "Matt Lovan is a Web Developer"
 This is my personal homepage & blog. It uses free, open-source components built into Docker containers and deployed on a Linux VM. See my blog post for a detailed look at the architecture.
 
 **Highlights:**
-- **Docker & Docker-Compose** – Each component runs in a separate Docker container which makes it easy to scale and/or add new apps.
-- **Docker override for Local Development** – Seperate Docker config for local troubleshooting  
-- **Auto-renewing SSL certificates (https)** – Uses certbot to auto-renew LetsEncrypt SSL certificates every 60 days
-- **Ghost CMS** – Ghost is an open-source headless Node.js content management system
+- **React.js Frontend** – client-side routing (React Router), SASS, 
 - **Node.js Server** – Lightweight server to serve the frontend + modify the index page's metadata to support SEO & social cards 
-- **React.js Frontend** – React Router, SASS, 
+- **Ghost CMS** – Ghost is an open-source headless Node.js content management system
+- **Docker & Docker-Compose** – Each component runs in a separate Docker container which makes it easy to scale and/or add new apps.
+- **Auto-renewing SSL certificates (https)** – Uses certbot to auto-renew LetsEncrypt SSL certificates every 60 days
+- **Docker override for Local Development** – Seperate Docker config for local troubleshooting  
 
 
-**Code Repositories:**
+**View**
+- 📺  &nbsp; [ View the Site](https://mattlovan.com)
+- 💾  &nbsp; [View Client & Server Code](https://github.com/MagRelo/servesa-homepage): React, Node, SASS
+- 💾  &nbsp; [View Infrastructure Code](https://github.com/MagRelo/servesa-compose): Docker, Docker Compose, NGINX, SSL, certbot
 
-- 💾  &nbsp; [Client & Server Code](https://github.com/MagRelo/servesa-homepage): React, Node, SASS
-- 💾  &nbsp; [Infrastructure Code](https://github.com/MagRelo/servesa-compose): Docker, Docker Compose, NGINX, SSL, certbot
-
+**Keywords:** React.js, Node.js, MongoDB, web3, Google OAuh, Stripe, Plaid, Sendgrid
 
 
 ## Other Projects
 
-### [Talent Relay](https://talentrelay.app)
+### Talent Relay
 Earn revenue for your community by helping them find great jobs.
 
 **Highlights:**
@@ -38,6 +39,7 @@ Earn revenue for your community by helping them find great jobs.
 - **Automated Emails** – Programmatic email using Sendgrid
 - **React.js Frontend** – React Router, SASS
 
+- 📺  &nbsp; [ View the Site](https://talentrelay.app)
 `*** This is closed source atm – please contact me for access ***`
 
 **Keywords:** React.js, Node.js, MongoDB, web3, Google OAuh, Stripe, Plaid, Sendgrid
