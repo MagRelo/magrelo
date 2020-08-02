@@ -32,12 +32,12 @@ This is my personal homepage & blog. It uses free, open-source components built 
 Earn revenue for your community by helping them find great jobs.
 
 **Highlights:**
-- **MongoDB** – Application data stored in MongoDB
-- **Node.js Server** – Lightweight server to serve the frontend + modify the index page's metadata to support SEO & social cards 
+- **React.js Frontend** – React Router, SASS
+- **Node.js Server**
+- **MongoDB**
 - **Google Authentication (OAuth)** – Supports Google login 
 - **Stripe & Plaid integrations** – Accept credit cards with using Stripe – Send money to users using Plaid
 - **Automated Emails** – Programmatic email using Sendgrid
-- **React.js Frontend** – React Router, SASS
 
 
 **View**
