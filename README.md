@@ -7,7 +7,7 @@ I'm Matt Lovan, Full Stack JavaScript developer.
 ## Featured Project
 
 ### "Matt Lovan is a Web Developer"
-This is my personal homepage & blog. It uses free, open-source components built into Docker containers and deployed on a Linux VM. See my [blog post](https://medium.com/@mattlovan/deploy-a-scalable-open-source-architecture-4349cfe27e) for a detailed look at the architecture.
+This is my personal homepage & blog. It uses open-source components that are built into Docker containers and deployed on a Linux VM. See my [blog post](https://medium.com/@mattlovan/deploy-a-scalable-open-source-architecture-4349cfe27e) for a detailed look at the architecture.
 
 **Highlights:**
 - **React.js Frontend** – client-side routing (React Router), SASS, 
