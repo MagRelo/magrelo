@@ -2,131 +2,109 @@
 
 # Hello 👋
 
-I'm Matt Lovan, a Full Stack JavaScript developer focused on **cryptography, game theory, and mechanism design**.
+I'm Matt Lovan, a **full-stack engineer** building **composable incentive structures** that shape real-world user behavior. I work across the entire stack—from Solidity smart contracts and blockchain infrastructure to TypeScript applications, Node.js backends, Docker deployments, and everything in between.
 
-I build blockchain systems and cryptographic primitives that solve real-world problems—improving coordination mechanisms, enabling new forms of digital ownership, and creating more transparent governance structures. My work sits at the intersection of game theory, cryptography, and practical engineering.
+I design and implement economic incentive systems that directly impact how users interact with products and communities. My work combines Solidity development with full-stack engineering and applied mechanism design to create tangible value—turning users into growth engines, aligning economic incentives with desired behaviors, and building systems that reward participation in meaningful ways.
+
+**Applied Engineering Focus:** Every contract I write serves a real-world purpose. I don't build for technology's sake—I build mechanisms that enhance user lives, drive genuine engagement, and create sustainable economic value. See [distroengine.mattlovan.dev](https://distroengine.mattlovan.dev/) for examples of how these composable incentive structures work together in real-world applications.
+
+**Learn more:** [mattlovan.dev](https://mattlovan.dev/) | [distroengine.mattlovan.dev](https://distroengine.mattlovan.dev/)
 
 ## Featured Projects
 
-### 🌳 referralTree
+### 🌳 [referralTree](https://github.com/MagRelo/referralTree)
 
-**Multi-Level Referral Reward System** – A Solidity smart contract system implementing tree-based referral chains with game-theoretic incentives for viral growth.
+**Multi-Level Referral Reward System** – Solidity contracts implementing tree-based referral chains that transform users into growth engines.
 
-Build exponential network growth through multi-level referral rewards. Users earn rewards not just from their own referrals, but also from their referrer's referrals, creating cascading incentive structures that align individual actions with network expansion.
+**Real-World Impact:** Projects can bootstrap network effects by aligning user incentives with viral growth. Users earn rewards not just from their direct referrals, but from their entire referral network—creating cascading incentives that reward early adopters and community builders proportionally to their contribution.
 
-**Highlights:**
+**Solidity Mechanisms:**
 
-- **Solidity Smart Contracts** – Gas-optimized tree data structures for efficient referral tracking
-- **Foundry Testing** – Comprehensive test suite for contract logic and edge cases
-- **Game Theory Design** – Incentive mechanisms that encourage genuine network growth
-- **Ethereum Compatible** – Deployable on any EVM-compatible chain
+- Gas-optimized tree data structures for efficient referral tracking across unlimited network depth
+- Geometric reward distribution (60% retention per level) that scales naturally with network growth
+- Group-based isolation enabling multiple projects to use shared infrastructure without interference
+- Oracle-signed reward distribution ensuring only authorized events trigger payouts
 
-**View**
+**User Behavior Impact:** Users are incentivized to actively grow their networks because they benefit from exponential downstream activity. Early community members build substantial referral networks, while new users are motivated to refer others to capture future network value.
+
+**View:**
 
 - 💾 &nbsp; [View the Code](https://github.com/MagRelo/referralTree)
+- 📺 &nbsp; [Learn More](https://distroengine.mattlovan.dev/)
 
-**Keywords:** Solidity, Foundry, Ethereum, Smart Contracts, Game Theory, Mechanism Design, Referral Systems
-
-<hr>
-
-### 💼 TalentRelay
-
-**Earn revenue for your community by helping them find great jobs.**
-
-A full-stack platform that enables communities to monetize job placement through referral rewards. Combines traditional web infrastructure with blockchain-inspired incentive structures.
-
-**Highlights:**
-
-- **React.js Frontend** – React Router, SASS, modern UI/UX
-- **Node.js Server** – RESTful API with authentication and payment processing
-- **MongoDB** – Flexible data models for users, jobs, and referral tracking
-- **Google Authentication (OAuth)** – Seamless user onboarding
-- **Stripe & Plaid integrations** – Accept payments and send money to users programmatically
-- **Automated Emails** – Programmatic email using Sendgrid for notifications and updates
-
-**View**
-
-- 📺 &nbsp; [View the Site](https://talentrelay.app)
-
-`*** This is closed source atm – please contact me for access ***`
-
-**Keywords:** React.js, Node.js, MongoDB, Google OAuth, Stripe, Plaid, Sendgrid, Referral Systems
+**Keywords:** Solidity, Foundry, Referral Systems, Network Effects, Incentive Design, Smart Contracts
 
 <hr>
 
-## Other Projects
+### 🎯 [contestCatalyst](https://github.com/MagRelo/contestCatalyst)
 
-### 🎨 RARA Protocol
+**Tournament + Prediction Market Hybrid** – A dual-layer contest system combining traditional tournaments with secondary prediction markets, creating dynamic value flows that enhance engagement for both competitive and speculative participants.
 
-A cross-chain EVM protocol designed to incentivize the curation of interesting and valuable NFTs. Each protocol interaction produces a unique NFT, creating a self-reinforcing curation economy.
+**Real-World Impact:** Contests become more engaging when participants can bet on outcomes while competing. This creates positive feedback loops—larger prize pools attract more participants, which increases secondary market activity, which feeds back into prize pools. Both competitive players and market participants find value in the same event.
 
-**Highlights:**
+**Solidity Mechanisms:**
 
-- **Cross-Chain EVM Protocol** – Deployed across multiple chains
-- **Mechanism Design** – Incentive structures for quality curation
-- **NFT Generation** – Each interaction creates unique on-chain artifacts
+- State machine-driven contest lifecycle (OPEN → ACTIVE → LOCKED → SETTLED) ensuring secure fund management
+- Cross-subsidy balancing automatically redirects deposits between primary and secondary pools to maintain target ratios
+- Polynomial bonding curve pricing for secondary positions (`price = BASE_PRICE + COEFFICIENT * shares²`) creating fair market dynamics
+- Winner-take-all secondary payouts with automatic position consolidation upon settlement
 
-**View**
+**User Behavior Impact:** Competitive participants are incentivized by prize pools that grow through secondary market activity. Market participants can express predictions through position-taking, with early positions offering better risk/reward. The dual-layer design means more people engage, creating larger prize pools and more exciting contests.
 
-- 📺 &nbsp; [View the Site](https://rara.social)
+**View:**
 
-**Note:** RARA was acquired by MASK Network in April 2023.
+- 💾 &nbsp; [View the Code](https://github.com/MagRelo/contestCatalyst)
+- 📺 &nbsp; [Learn More](https://distroengine.mattlovan.dev/)
 
-**Keywords:** Ethereum, EVM, NFTs, Curation, Mechanism Design, Cross-Chain
-
-<hr>
-
-### ⚖️ Priority Pricing
-
-A protocol for demand-based pricing to reduce transaction costs for freelance workers. Explores mechanism design principles for dynamic pricing in decentralized labor markets.
-
-**Highlights:**
-
-- **Mechanism Design** – Game-theoretic pricing mechanisms
-- **Ethereum Smart Contracts** – On-chain pricing logic
-- **ERC721 Integration** – NFT-based worker representation
-
-**View**
-
-- 💾 &nbsp; [View the Code](https://github.com/MagRelo/laborMarket/blob/master/README.md)
-
-**Keywords:** Ethereum, ERC721, Web3, Mechanism Design, Labor Markets, Dynamic Pricing
+**Keywords:** Solidity, Prediction Markets, Tournament Design, Bonding Curves, Cross-Subsidy Mechanisms, Smart Contracts
 
 <hr>
 
-### 🎯 Curation Tournament
+### 💰 [yieldToken](https://github.com/MagRelo/yieldToken)
 
-A game-theoretic mechanism modeled on poker tournaments, designed to encourage a group of players to reach consensus around a list of items. Players can increase their share of the pot by predicting the group consensus around adding or removing items from the list.
+**Tokens with Built-In Economic Incentives** – A framework for creating tokens that automatically generate yield for holders, reducing velocity and aligning long-term holder interests with project success.
 
-**Highlights:**
+**Real-World Impact:** Traditional tokens suffer from high velocity—users sell quickly because there's no cost to holding. YieldToken changes this by creating opportunity cost for selling: holders earn yield from staking, yield protocols, or other mechanisms. This aligns token holder behavior with project longevity and reduces sell pressure.
 
-- **Mechanism Design** – Consensus-building through prediction markets
-- **Game Theory** – Incentive alignment for group decision-making
+**Solidity Mechanisms:**
 
-**View**
+- Configurable yield generation from multiple sources (staking rewards, protocol fees, yield farming)
+- Automatic yield distribution to holders proportional to their stake
+- Velocity reduction through opportunity cost creation (selling means losing future yield)
+- Integration patterns for various yield sources (Compound, Aave, custom protocols)
 
-- 📝 &nbsp; [Read the Article](https://medium.com/@mattlovan/curation-tournament-babbf0155a36)
+**User Behavior Impact:** Token holders are incentivized to hold longer because selling means losing future yield streams. This reduces token velocity, creating more stable token economics. Long-term holders benefit from compounding yield, while projects benefit from reduced sell pressure and more committed community members.
 
-**Keywords:** Mechanism Design, Game Theory, Consensus, Prediction Markets
+**View:**
 
-<hr>
+- 💾 &nbsp; [View the Code](https://github.com/MagRelo/yieldToken)
+- 📺 &nbsp; [Learn More](https://distroengine.mattlovan.dev/)
 
-## Research & Writing
-
-I write about mechanism design, cryptographic primitives, and decentralized systems:
-
-- [**Curation Tournament**](https://medium.com/@mattlovan/curation-tournament-babbf0155a36) – Consensus mechanisms through game theory
-- [**Reputation and Identity in Decentralized Systems**](https://medium.com/@mattlovan/reputation-and-identity-in-decentralized-systems-ba4a7ff99cc4) – Survey of decentralized identity and reputation systems
-- [**Run your own Public Ethereum Testnet**](https://medium.com/@mattlovan/run-a-public-ethereum-testnet-f0e40cefc1f2) – Infrastructure setup for Ethereum networks
+**Keywords:** Solidity, Token Design, Yield Generation, Velocity Reduction, Economic Incentives, Smart Contracts
 
 <hr>
+
+## Applied Engineering Philosophy
+
+I build Solidity contracts that solve real problems for real users. Every mechanism I design is tested against these questions:
+
+- **Does this change how users behave in a meaningful way?**
+- **Are the incentives aligned with desired outcomes?**
+- **Will this create sustainable value for users and projects?**
+- **Can users understand and benefit from these mechanisms?**
+
+The goal isn't just working code—it's creating systems that enhance user experiences, build stronger communities, and generate genuine economic value through well-designed incentives.
 
 ## Technical Toolkit
 
-**Blockchain & Crypto:** Solidity, Foundry, Ethereum, Web3, Smart Contracts, Cryptographic Signatures
+**Blockchain & Smart Contracts:** Solidity, Foundry, Ethereum, Smart Contract Architecture, Gas Optimization, Oracle Integration
 
-**Full Stack:** JavaScript, TypeScript, React, Node.js, Express, MongoDB
+**Full-Stack Development:** TypeScript, Node.js, React, Express, Docker, Containerization, RESTful APIs
 
-**Infrastructure:** Docker, Docker Compose, NGINX, SSL/Certbot, Linux
+**Incentive Design:** Mechanism Design, Game Theory, Economic Modeling, User Behavior Engineering
 
-**Design:** Mechanism Design, Game Theory, Cryptography, Protocol Design
+**Infrastructure:** Docker, Docker Compose, Linux, Deployment Automation, CI/CD
+
+---
+
+**Learn more:** [mattlovan.dev](https://mattlovan.dev/) | [distroengine.mattlovan.dev](https://distroengine.mattlovan.dev/)
